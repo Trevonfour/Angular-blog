@@ -1,0 +1,31 @@
+*{
+    list-style-type: none;
+    margin-left: 6%;   
+    margin-right: 20%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-menu-bar img{
+    width: 50%;
+    margin-left: 10%;
+    border-radius: 20%;
+}
+
+.menu-bar-options li a{
+    font-size: 150%;
+    margin-right: 100%;
+    display: flex;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: whitesmoke;
+    border-radius: 30%;
+}
+
+.menu-bar-options li a img{
+    width: 60px;
+}

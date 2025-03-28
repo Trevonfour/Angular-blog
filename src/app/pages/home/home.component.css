@@ -1,0 +1,25 @@
+.Certifications{
+    color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+    justify-content:center;
+    display: flex;
+}
+.courses{
+    color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+    justify-content:center;
+    display: flex;
+}
+h2{
+    font-size: 35px;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    margin-left: 10%;
+    text-align: left;
+    color: white;
+}
+.menu-bar{
+    color: white;
+}

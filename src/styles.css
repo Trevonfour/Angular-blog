@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+    filter: grayscale(10%);
+    backdrop-filter: blur(3px);
+}
+
+body {
+    background-image: url("content/Images/plano-de-fundo.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;   
+}
